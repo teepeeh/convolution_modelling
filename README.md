@@ -1,5 +1,5 @@
-# convolution_modelling
-State anxiety oscillations project 2020 - convolution modelling code 
+# convolution_modelling 'tph_convolution_modelling_FOI_8_30b'
+State anxiety oscillations project 2020 - convolution modelling code for alpha-beta [8-30Hz]
 
 Download and open tp_ConvModel.m (this is the 'launch' page where you can addpaths and execute various functions in sequence). 
 
