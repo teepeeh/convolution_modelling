@@ -5,7 +5,7 @@ Download and open tp_ConvModel.m (this is the 'launch' page where you can addpat
 
 In tp_ConvModel.m,  add your directory into RootFolder. 
 
-To run the convolution model, download the seperate data file here: 
+To run the convolution model, download the seperate data file here: https://drive.google.com/drive/folders/1ncJK-QO46GBpQIKbWDRhOsJ4j_1oXaHZ?usp=sharing
 
 And add this folder 'SPM_tf' to the Data directory. 
 
