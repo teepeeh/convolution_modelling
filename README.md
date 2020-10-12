@@ -13,7 +13,10 @@ SPM_tf contains participant 1's continuous time frequency data in amplitude.
 
 To run convolution modelling on this, run:
 
-1) CM_Options_Convolution_Modelling from tp_ConvModel.m
-3) Step 4 - Convolution Modelling = CM_step4_Convolution_Modelling(rootFolder, options);
+1) Open and edit CM_Options_Convolution_Modelling (line 24 in tp_ConvModel.m) to be for subject 1 only. (Line 9). 
+2) Run CM_Options_Convolution_Modelling
+3) Run Step 4 (line 49 in tp_ConvModel.m) which is 'CM_step4_Convolution_Modelling(rootFolder, options);'
 
-Fieldtrip statistics and plots are run manually from scripts inside [FUNCTIONS>Fieldtrip_stats] & [FUNCTIONS>Plotting]. These are also referenced in tp_ConvModel.m on line 53-61. 
+This will save the convolution model data to Data>SPM_tf>participant_1
+
+FYI: Fieldtrip statistics and plots are run manually from scripts inside [FUNCTIONS>Fieldtrip_stats] & [FUNCTIONS>Plotting]. These are also referenced in tp_ConvModel.m on line 53-61. 
